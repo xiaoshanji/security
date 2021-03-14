@@ -1114,3 +1114,10 @@ public class WebSecurityConfig extends WebSecurityConfigurerAdapter
 ```properties
 Authorization:Bearer token
 ```
+
+# 工程
+
+[Spring Security oAuth2.0](https://github.com/xiaoshanji/project/tree/master/spring-cloud-security-oauth2)
+
+
+
